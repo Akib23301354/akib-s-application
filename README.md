@@ -64,3 +64,6 @@ We were unable to find the following Fonts, Please add manually to ```assets/fon
 ```
 SFProTextSemibold.ttf
 ```
+
+### Screenshot of App 
+![Image Alt text](<Images/Group 28.png> "ScreenShot")
